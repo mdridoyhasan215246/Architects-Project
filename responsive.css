@@ -1,0 +1,60 @@
+@media screen and (max-width: 576px) {
+
+
+    .logo h3{
+    
+        font-size: 2.0rem;
+        font-weight: 600;
+        line-height: 3.2rem;
+        color: var(--heading-color);
+        
+        }
+
+     .hero-text h1{
+            color: var(--heading-color);
+            font-size: 4.4rem;
+            font-weight: 700;
+            line-height: 6.5rem;
+        
+        
+        }
+
+
+    .hero-text p{
+    max-width: 450px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+
+
+
+.header-menu ul li a{
+    
+    margin-left: 2.0rem;
+}
+
+.header-menu ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 2.0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
