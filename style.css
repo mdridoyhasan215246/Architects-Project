@@ -321,3 +321,42 @@ color: #727272;
 
 }
 /* some fact section style end  */
+
+
+
+
+/* sponser section style start  */
+
+.sponser-section{
+    margin-top: 180px;
+    text-align: center;
+
+}
+
+
+.sponser-heading h2{
+
+font-size: 4.5rem;
+font-weight: 700;
+line-height:5.2rem;
+color: var(--heading-color);
+
+
+}
+.sponser-heading p{
+    margin: 15px auto 50px auto;
+    width: 540px;
+}
+
+.sponser-logos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+    padding-bottom: 130px;
+    
+}
+
+
+
+/* sponser section style end  */
