@@ -360,3 +360,14 @@ color: var(--heading-color);
 
 
 /* sponser section style end  */
+
+
+
+/* footer style start  */
+footer{
+    background-color:#FFF4E7;
+    text-align: center;
+    margin: auto;
+    padding: 38px 0px;
+    
+}
