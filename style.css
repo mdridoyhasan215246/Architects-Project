@@ -181,4 +181,83 @@ color: var(--primary-color);
 
 
 
+
+
+ .features-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    margin-top: 100px;
+    flex-basis: 100%;
+
+ }
+
+
+ .features-title{
+    display: flex;
+    gap: 20px;
+ }
+.orange-div{
+    background-color: var(--primary-color);
+    width: 6px;
+    height: 106px;
+}
+
+.features-enjoy{
+    margin: 20px 0px;
+}
+
+
+
+
+
+ .features-title h2{
+   
+font-size: 4.5rem;
+font-weight: 700;
+line-height: 5.2rem;
+
+
+ }
+
+
+ .features-left2{
+    flex-basis: 100%;
+    
+
+ }
+.features-right2{
+    flex-basis: 100%;
+   
+
+
+
+
+}
+
+.features-right2 img{
+    width: 700px;
+    height: 900px;
+}
+
+.features-card{
+    box-shadow: 0px 4px 30px 0px #0000000F;
+    padding: 30px;
+    margin-top: 20px;
+
+}
+.features-card h3{
+
+font-size: 2.0rem;
+font-weight: 600;
+line-height: 2.3rem;
+margin-bottom: 10px;
+
+}
+
+
+
+
  /* Our Features style end  */
